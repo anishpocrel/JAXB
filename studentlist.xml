@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<college collegeid="12">
+    <students id="1" roll="1">
+        <name>Anish Pokhrel</name>
+        <address>Biratnagar</address>
+        <appointeddate>2078-01-02 00:00:00</appointeddate>
+    </students>
+    <students id="2" roll="2">
+        <name>Ram Pokhrel</name>
+        <address>Kathmandu</address>
+        <appointeddate>2078-01-03 00:00:00</appointeddate>
+    </students>
+    <students id="3" roll="3">
+        <name>Hari Pokhrel</name>
+        <address>Bhaktapur</address>
+        <appointeddate>2078-01-04 00:00:00</appointeddate>
+    </students>
+</college>
